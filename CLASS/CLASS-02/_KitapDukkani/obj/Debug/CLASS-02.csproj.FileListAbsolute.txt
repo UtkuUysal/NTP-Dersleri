@@ -1,0 +1,9 @@
+C:\Users\LAB\Documents\GitHub\NTP-Dersleri\CLASS\CLASS-02\_KitapDukkani\bin\Debug\_KitapDukkani.exe.config
+C:\Users\LAB\Documents\GitHub\NTP-Dersleri\CLASS\CLASS-02\_KitapDukkani\obj\Debug\_KitapDukkani.exe
+C:\Users\LAB\Documents\GitHub\NTP-Dersleri\CLASS\CLASS-02\_KitapDukkani\obj\Debug\_KitapDukkani.pdb
+C:\Users\LAB\Documents\GitHub\NTP-Dersleri\CLASS\CLASS-02\_KitapDukkani\bin\Debug\_KitapDukkani.exe
+C:\Users\LAB\Documents\GitHub\NTP-Dersleri\CLASS\CLASS-02\_KitapDukkani\bin\Debug\_KitapDukkani.pdb
+C:\Users\LAB\Documents\GitHub\NTP-Dersleri\CLASS\CLASS-02\_KitapDukkani\obj\Debug\CLASS-02.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Documents\GitHub\NTP-Dersleri\CLASS\CLASS-02\_KitapDukkani\obj\Debug\_KitapDukkani.Form1.resources
+C:\Users\LAB\Documents\GitHub\NTP-Dersleri\CLASS\CLASS-02\_KitapDukkani\obj\Debug\_KitapDukkani.Properties.Resources.resources
+C:\Users\LAB\Documents\GitHub\NTP-Dersleri\CLASS\CLASS-02\_KitapDukkani\obj\Debug\CLASS-02.csproj.GenerateResource.Cache

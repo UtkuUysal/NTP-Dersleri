@@ -1,0 +1,56 @@
+C:\Users\BIGUSOFT\Desktop\C# 2019061402\20191225\1_KitapDukkani\_KitapDukkani\bin\Debug\_KitapDukkani.exe.config
+C:\Users\BIGUSOFT\Desktop\C# 2019061402\20191225\1_KitapDukkani\_KitapDukkani\bin\Debug\_KitapDukkani.exe
+C:\Users\BIGUSOFT\Desktop\C# 2019061402\20191225\1_KitapDukkani\_KitapDukkani\bin\Debug\_KitapDukkani.pdb
+C:\Users\BIGUSOFT\Desktop\C# 2019061402\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.csprojAssemblyReference.cache
+C:\Users\BIGUSOFT\Desktop\C# 2019061402\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.Form1.resources
+C:\Users\BIGUSOFT\Desktop\C# 2019061402\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.Properties.Resources.resources
+C:\Users\BIGUSOFT\Desktop\C# 2019061402\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.csproj.GenerateResource.cache
+C:\Users\BIGUSOFT\Desktop\C# 2019061402\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.csproj.CoreCompileInputs.cache
+C:\Users\BIGUSOFT\Desktop\C# 2019061402\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.exe
+C:\Users\BIGUSOFT\Desktop\C# 2019061402\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.pdb
+C:\Users\MEHMET\Desktop\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\bin\Debug\_KitapDukkani.exe.config
+C:\Users\MEHMET\Desktop\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.exe
+C:\Users\MEHMET\Desktop\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.pdb
+C:\Users\MEHMET\Desktop\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\bin\Debug\_KitapDukkani.exe
+C:\Users\MEHMET\Desktop\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\bin\Debug\_KitapDukkani.pdb
+C:\Users\MEHMET\Desktop\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.csprojResolveAssemblyReference.cache
+C:\Users\MEHMET\Desktop\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.Form1.resources
+C:\Users\MEHMET\Desktop\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.Properties.Resources.resources
+C:\Users\MEHMET\Desktop\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.csproj.GenerateResource.Cache
+C:\Users\MEHMET\Desktop\MEHMET\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\bin\Debug\_KitapDukkani.exe.config
+C:\Users\MEHMET\Desktop\MEHMET\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.exe
+C:\Users\MEHMET\Desktop\MEHMET\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.pdb
+C:\Users\MEHMET\Desktop\MEHMET\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\bin\Debug\_KitapDukkani.exe
+C:\Users\MEHMET\Desktop\MEHMET\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\bin\Debug\_KitapDukkani.pdb
+C:\Users\MEHMET\Desktop\MEHMET\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.csprojResolveAssemblyReference.cache
+C:\Users\MEHMET\Desktop\MEHMET\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.Form1.resources
+C:\Users\MEHMET\Desktop\MEHMET\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.Properties.Resources.resources
+C:\Users\MEHMET\Desktop\MEHMET\HİZMET İÇİ C#\20191225\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.csproj.GenerateResource.Cache
+G:\1_KitapDukkani\_KitapDukkani\bin\Debug\_KitapDukkani.exe.config
+G:\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.exe
+G:\1_KitapDukkani\_KitapDukkani\obj\Debug\_KitapDukkani.pdb
+G:\1_KitapDukkani_1\_KitapDukkani\bin\Debug\_KitapDukkani.exe.config
+G:\1_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.exe
+G:\1_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.pdb
+C:\Users\MEHMET\Desktop\1_KitapDukkani_1\_KitapDukkani\bin\Debug\_KitapDukkani.exe.config
+C:\Users\MEHMET\Desktop\1_KitapDukkani_1\_KitapDukkani\bin\Debug\_KitapDukkani.exe
+C:\Users\MEHMET\Desktop\1_KitapDukkani_1\_KitapDukkani\bin\Debug\_KitapDukkani.pdb
+C:\Users\MEHMET\Desktop\1_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.csproj.AssemblyReference.cache
+C:\Users\MEHMET\Desktop\1_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.Form1.resources
+C:\Users\MEHMET\Desktop\1_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.Properties.Resources.resources
+C:\Users\MEHMET\Desktop\1_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.csproj.GenerateResource.cache
+C:\Users\MEHMET\Desktop\1_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Desktop\1_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.exe
+C:\Users\MEHMET\Desktop\1_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.pdb
+C:\Users\ÖĞRENCİ\Desktop\_KitapDukkani_1\_KitapDukkani\bin\Debug\_KitapDukkani.exe.config
+C:\Users\ÖĞRENCİ\Desktop\_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.exe
+C:\Users\ÖĞRENCİ\Desktop\_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.pdb
+C:\Users\LAB\Desktop\_KitapDukkani_1\_KitapDukkani\bin\Debug\_KitapDukkani.exe.config
+C:\Users\LAB\Desktop\_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.exe
+C:\Users\LAB\Desktop\_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.pdb
+C:\Users\LAB\Desktop\_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Desktop\_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.Form1.resources
+C:\Users\LAB\Desktop\_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.Properties.Resources.resources
+C:\Users\LAB\Desktop\_KitapDukkani_1\_KitapDukkani\obj\Debug\_KitapDukkani.csproj.GenerateResource.Cache
+C:\Users\LAB\Desktop\_KitapDukkani_1\_KitapDukkani\bin\Debug\_KitapDukkani.exe
+C:\Users\LAB\Desktop\_KitapDukkani_1\_KitapDukkani\bin\Debug\_KitapDukkani.pdb
