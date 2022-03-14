@@ -1,0 +1,9 @@
+c:\users\lab\documents\visual studio 2013\Projects\Veri Tabanı Bağlama. -01\Veri Tabanı Bağlama. -01\bin\Debug\Veri_Tabanı_Bağlama._01.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\Veri Tabanı Bağlama. -01\Veri Tabanı Bağlama. -01\obj\Debug\Veri_Tabanı_Bağlama._01.Form1.resources
+c:\users\lab\documents\visual studio 2013\Projects\Veri Tabanı Bağlama. -01\Veri Tabanı Bağlama. -01\obj\Debug\Veri_Tabanı_Bağlama._01.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\Veri Tabanı Bağlama. -01\Veri Tabanı Bağlama. -01\obj\Debug\Veri Tabanı Bağlama. -01.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\Veri Tabanı Bağlama. -01\Veri Tabanı Bağlama. -01\bin\Debug\Veri_Tabanı_Bağlama._01.exe
+c:\users\lab\documents\visual studio 2013\Projects\Veri Tabanı Bağlama. -01\Veri Tabanı Bağlama. -01\bin\Debug\Veri_Tabanı_Bağlama._01.pdb
+c:\users\lab\documents\visual studio 2013\Projects\Veri Tabanı Bağlama. -01\Veri Tabanı Bağlama. -01\obj\Debug\Veri_Tabanı_Bağlama._01.exe
+c:\users\lab\documents\visual studio 2013\Projects\Veri Tabanı Bağlama. -01\Veri Tabanı Bağlama. -01\obj\Debug\Veri_Tabanı_Bağlama._01.pdb
+c:\users\lab\documents\visual studio 2013\Projects\Veri Tabanı Bağlama. -01\Veri Tabanı Bağlama. -01\obj\Debug\Veri Tabanı Bağlama. -01.csprojResolveAssemblyReference.cache
